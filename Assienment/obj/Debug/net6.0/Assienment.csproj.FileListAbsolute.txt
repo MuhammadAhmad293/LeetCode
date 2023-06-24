@@ -1,0 +1,15 @@
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assienment.exe
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assienment.deps.json
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assienment.runtimeconfig.json
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assienment.dll
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assienment.pdb
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.csproj.AssemblyReference.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.AssemblyInfoInputs.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.AssemblyInfo.cs
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.csproj.CoreCompileInputs.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.dll
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\refint\Assienment.dll
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.pdb
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assienment.genruntimeconfig.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\ref\Assienment.dll

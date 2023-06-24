@@ -1,0 +1,15 @@
+F:\Grokking Algorithms\LeetCode\1-TwoSum\bin\Debug\net6.0\1-TwoSum.exe
+F:\Grokking Algorithms\LeetCode\1-TwoSum\bin\Debug\net6.0\1-TwoSum.deps.json
+F:\Grokking Algorithms\LeetCode\1-TwoSum\bin\Debug\net6.0\1-TwoSum.runtimeconfig.json
+F:\Grokking Algorithms\LeetCode\1-TwoSum\bin\Debug\net6.0\1-TwoSum.dll
+F:\Grokking Algorithms\LeetCode\1-TwoSum\bin\Debug\net6.0\1-TwoSum.pdb
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.csproj.AssemblyReference.cache
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.AssemblyInfoInputs.cache
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.AssemblyInfo.cs
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.csproj.CoreCompileInputs.cache
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.dll
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\refint\1-TwoSum.dll
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.pdb
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\1-TwoSum.genruntimeconfig.cache
+F:\Grokking Algorithms\LeetCode\1-TwoSum\obj\Debug\net6.0\ref\1-TwoSum.dll

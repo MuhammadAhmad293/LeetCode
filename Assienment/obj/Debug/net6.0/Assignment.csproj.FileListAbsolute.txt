@@ -1,0 +1,15 @@
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assignment.exe
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assignment.deps.json
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assignment.dll
+F:\Grokking Algorithms\LeetCode\Assienment\bin\Debug\net6.0\Assignment.pdb
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.dll
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\refint\Assignment.dll
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.pdb
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+F:\Grokking Algorithms\LeetCode\Assienment\obj\Debug\net6.0\ref\Assignment.dll
